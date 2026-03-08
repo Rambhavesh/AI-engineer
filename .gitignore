@@ -1,0 +1,5 @@
+# Never push API keys to GitHub
+.env
+__pycache__/
+*.pyc
+.venv/
